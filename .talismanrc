@@ -21,3 +21,9 @@ fileignoreconfig:
 - filename: src/main/resources/db/migration/V1.4__AlterTableProductsAddPrimaryPhone.sql
   checksum: 1445880a191f8d819731f2dab79ef0f73ac71d1b68d35d737adfdf5f5ae091c4
 version: ""
+
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.5__CreateTableCarts.sql
+  checksum: a03d00373656db7db7008b1c363ff973fb81804e8d6b892041204a915a7ed215
+version: ""
+
