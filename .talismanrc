@@ -9,3 +9,15 @@ fileignoreconfig:
 - filename: src/main/resources/db/migration/V1.2__CreateTableProducts.sql
   checksum: ca7115741ff1d9750cd1bbb6f627b8fa01e4d84912a273bf6adc19aa9f77eecf
 version: ""
+
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.3__AlterTableUsersNameToFullname.sql
+  checksum: 53dcaf3770548a55498c326a4fd2e0fc8cdf222e37ade3896fa50e4ed0b76fc1
+version: ""
+
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.3__AlterTableUsersNameToFullname.sql
+  checksum: 53dcaf3770548a55498c326a4fd2e0fc8cdf222e37ade3896fa50e4ed0b76fc1
+- filename: src/main/resources/db/migration/V1.4__AlterTableProductsAddPrimaryPhone.sql
+  checksum: 1445880a191f8d819731f2dab79ef0f73ac71d1b68d35d737adfdf5f5ae091c4
+version: ""

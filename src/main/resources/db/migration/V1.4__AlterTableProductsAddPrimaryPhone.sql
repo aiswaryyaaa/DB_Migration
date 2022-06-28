@@ -1,0 +1,1 @@
+alter table Products add column primary_phone INT;
